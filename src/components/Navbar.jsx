@@ -39,9 +39,6 @@ const Navbar = () => {
           }}
         >
           <img src={img1} alt='logo' className='w-14 h-14 object-contain rounded-full' />
-          <p className='text-white text-[20px] font-bold cursor-pointer flex' style={{ fontFamily: 'sans-serif' }}>
-            Arya &nbsp;
-          </p>
         </Link>
         <div className="socialIcons" style={{ display: 'flex', gap: '20px', position: 'relative', paddingRight: '20px', paddingLeft: '40px' }}>
           <NavLink to="https://www.linkedin.com/in/arya-das-141747226/">
