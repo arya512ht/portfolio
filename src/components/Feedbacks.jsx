@@ -22,7 +22,7 @@ function Feedback() {
   return (
     <div className="containerslide">
     
-      <h1 className="heading">My Cirtificates</h1>
+      <h1 className="heading">My Certificates</h1>
       <Swiper
         effect={'coverflow'}
         grabCursor={true}
