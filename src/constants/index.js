@@ -140,17 +140,17 @@ const experiences = [
     company_name: "Internship",
     icon: alumnuslogo,
     iconBg: "#E6DEDD",
-    date: "June 2022 - July 2022",
+    date: "June 2023 - July 2023",
     points: [
       "This provided invaluable hands-on experience and exposure to real-world professional environments. It offered a unique opportunity for me to apply my theoretical knowledge in practical settings, develop new skills, and gain industry insights. This also served as a stepping stone for building networks, exploring career paths, and enhancing employability in the competitive job market.",
     ],
   },
   {
     title: "Ardent Computec Pvt. Ltd.",
-    company_name: "Training and Internship",
+    company_name: "Training & Internship",
     icon: ardentlogo,
     iconBg: "#E6DEDD",
-    date: "June 2022 - July 2022",
+    date: "June 2023 - July 2023",
     points: [
       "These combine theoretical learning with practical application, providing a comprehensive and immersive learning experience. Through training, I acquired specific skills and knowledge in a structured manner, while internship offered the chance to apply and further develop those skills in real-world settings. This combination equiped me with the expertise and experience needed to excel in my chosen field, bridging the gap between academia and professional success.",
     ],
@@ -176,6 +176,10 @@ const projects = [
       {
         name: "node.js",
         color: "pink-text-gradient",
+      },
+      {
+        name: "express.js",
+        color: "blue-text-gradient",
       },
     ],
     image: collegewebss,

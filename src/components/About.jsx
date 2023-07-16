@@ -48,7 +48,7 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       style={{textAlign:'justify'}}>
         As a computer science and engineering student proficient in Web developement, 
-        I specialize in frameworks such as React, Node.js, and Three.js. 
+        I specialize in React, Node.js, Express.js and Three.js. 
         With a strong passion for coding, I thrive on collaborating closely with others 
         to develop efficient, scalable, and user-friendly solutions that effectively address real-world challenges. 
         I possess a quick learning ability, allowing me to adapt swiftly to new technologies and requirements. 
